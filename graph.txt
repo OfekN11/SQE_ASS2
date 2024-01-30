@@ -25,7 +25,7 @@ strict digraph G {
 9 -> 10 [ label="T"];
 10 -> 11 [ label="T"];
 11 -> 12 [ label="T"];
-12 -> 10 [ label="T"];
+12 -> 9 [ label="T"];
 10 -> 13 [ label="F"];
 11 -> 13 [ label="F"];
 13 -> 14 [ label="T"];
